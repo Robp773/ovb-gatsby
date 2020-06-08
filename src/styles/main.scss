@@ -1,0 +1,10 @@
+// base
+@import "./base/variables.scss";
+@import "./base/mixins.scss";
+
+// components
+@import "./components/navbar.scss";
+@import "./components/footer.scss";
+
+// templates
+@import "./templates/index-page.scss";
